@@ -1,6 +1,6 @@
 # DIO | Git e GitHub
 
-repositórios para armazenar resumos sobre Git e GitHub do curso Potência Tech iFood - Desenvolvimento de Jogos.
+repositórios para armazenar resumos sobre cursos do Potência Tech iFood - Desenvolvimento de Jogos.
 
 ## 📚 Documentação
 - [Documentação Git](https://git-scm.com/doc)
